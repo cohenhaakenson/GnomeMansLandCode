@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 20d4399b1914dfe4192a31a8e2929411
+  - enabled: 1
+    path: Assets/Scenes/CohenLevel.unity
+    guid: 5972e1bbd776db549b9253812ed515dc
+  - enabled: 1
+    path: Assets/Scenes/ElyghPuzzle1.unity
+    guid: 85acc4dfcbc824343b224da59ff9dc63
+  - enabled: 1
+    path: Assets/Scenes/BritneyLevel.unity
+    guid: 34ad43f41ab113e469534f76f4edf7e4
+  - enabled: 1
+    path: Assets/Scenes/J_Fun.unity
+    guid: 1312027303d2a3b43b56d7275d1c39f5
+  m_configObjects: {}
